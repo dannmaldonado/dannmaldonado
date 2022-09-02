@@ -9,7 +9,7 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannmaldonado&layout=compact&theme=dracula" alt="danilo maldonado's most languages"/>
 </p>
 
-## 🛠 &nbsp;Tech Stack
+## ⚙️ &nbsp;Tech Stack
 
 <div style="display: inline_block">
   <img align="center" alt="Dann-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
