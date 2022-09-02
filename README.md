@@ -1,8 +1,10 @@
-## Bem-vindo(a) ao perfil do Danilo Maldonado 😁
+<div align="center">
+<h1> Bem-vindo(a) ao perfil do Danilo Maldonado 😁 </h1>
+<br/>
 
 <div>
  
-<p align="left">
+<p align="center">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=dannmaldonado&show_icons=true&theme=dracula" alt="danilo maldonado's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannmaldonado&layout=compact&theme=dracula" alt="danilo maldonado's most languages"/>
 </p>
@@ -22,7 +24,7 @@
 
 ### Pra contato é possivel me encontrar nas redes sociais abaixo!
 
-<p align="left" style="background:yellow">
+<p align="center" style="background:yellow">
 <a href="https://www.linkedin.com/in/dannmaldonado/" target="_blank">
   <img align="center" alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
@@ -35,4 +37,5 @@
  
   ![Snake animation](https://github.com/dannmaldonado/dannmaldonado/blob/output/github-contribution-grid-snake.svg)
 
+</div>
 </div>
