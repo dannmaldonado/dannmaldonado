@@ -34,8 +34,5 @@
 <a href = "mailto:dannsanto@gmail.com">
  <img align="center" alt="Gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
- 
-  ![Snake animation](https://github.com/dannmaldonado/dannmaldonado/blob/output/github-contribution-grid-snake.svg)
-
 </div>
 </div>
